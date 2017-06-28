@@ -1,0 +1,9 @@
+image: kuberlab/styles-transfer-ui:latest
+styles_model: styles
+styles_mlapp: styles-transfer
+serviceType: ClusterIP
+
+resources:
+  requests:
+    memory: 64Mi
+    cpu: 50m

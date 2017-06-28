@@ -1,0 +1,8 @@
+name: styles-transfer-ui
+version: 1.0.0
+description: UI for styles-transfer
+keywords:
+- web
+sources:
+- https://github.com/kuberlab/styles-transfer-ui
+engine: gotpl
